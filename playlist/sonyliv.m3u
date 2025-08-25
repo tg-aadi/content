@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="sonyhd" tvg-name="Sony HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyHD.png" group-title="SonyLiv", Sony HD
+https://sonyliv.tgaadi.workers.dev/sonyhd/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonysabhd" tvg-name="Sony SAB HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SABHD.png" group-title="SonyLiv", Sony SAB HD
+https://sonyliv.tgaadi.workers.dev/sonysabhd/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonypal" tvg-name="Sony Pal" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyPal.png" group-title="SonyLiv", Sony Pal
+https://sonyliv.tgaadi.workers.dev/sonypal/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonypixhd" tvg-name="Sony PIX HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/PIXHD.png" group-title="SonyLiv", Sony PIX HD
+https://sonyliv.tgaadi.workers.dev/sonypixhd/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonymusic" tvg-name="Sony Mix" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyMix.png" group-title="SonyLiv", Sony Mix
+https://sonyliv.tgaadi.workers.dev/sonymix/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonywah" tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyWah.png" group-title="SonyLiv", Sony Wah
+https://sonyliv.tgaadi.workers.dev/sonywah/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonymaxhd" tvg-name="Sony MAX HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/MaxHD.png" group-title="SonyLiv", Sony MAX HD
+https://sonyliv.tgaadi.workers.dev/sonymaxhd/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonymax2" tvg-name="Sony MAX 2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/Max2.png" group-title="SonyLiv", Sony MAX 2
+https://sonyliv.tgaadi.workers.dev/sonymax2/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony AATH" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyAATH.png" group-title="SonyLiv", Sony AATH
+https://sonyliv.tgaadi.workers.dev/sonyaath/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonymarathi" tvg-name="Sony Marathi" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyMarathi.png" group-title="SonyLiv", Sony Marathi
+https://sonyliv.tgaadi.workers.dev/sonymarathi/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonyyay" tvg-name="Sony YAY!" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/YAY.png" group-title="SonyLiv", Sony YAY!
+https://sonyliv.tgaadi.workers.dev/sonyyay/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonysixhd" tvg-name="Sony Six HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SIXHD.png" group-title="SonyLiv", Sony Six HD
+https://sonyliv.tgaadi.workers.dev/sonysixhd/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonyten1hd" tvg-name="Sony Ten 1 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/TEN1HD.png" group-title="SonyLiv", Sony Ten 1 HD
+https://sonyliv.tgaadi.workers.dev/sonyten1hd/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonyten2hd" tvg-name="Sony Ten 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/TEN2HD.png" group-title="SonyLiv", Sony Ten 2 HD
+https://sonyliv.tgaadi.workers.dev/sonyten2hd/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonyten3hd" tvg-name="Sony Ten 3 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/TEN3HD.png" group-title="SonyLiv", Sony Ten 3 HD
+https://sonyliv.tgaadi.workers.dev/sonyten3hd/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonyten4hd" tvg-name="Sony Ten 4 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/TEN4HD.png" group-title="SonyLiv", Sony Ten 4 HD
+https://sonyliv.tgaadi.workers.dev/sonyten4hd/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonybbcearthhd" tvg-name="Sony BBC Earth HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/BBCEarthHD.png" group-title="SonyLiv", Sony BBC Earth HD
+https://sonyliv.tgaadi.workers.dev/sonybbcearthhd/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv" tvg-name="Sony Liv" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyLIV.png" group-title="SonyLiv", Sony Liv
+https://sonyliv.tgaadi.workers.dev/sonyliv/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonyanmol" tvg-name="Sony Anmol" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyAnmol.png" group-title="SonyLiv", Sony Anmol
+https://sonyliv.tgaadi.workers.dev/sonyanmol/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonyten5hd" tvg-name="Sony Ten 5 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/TEN5HD.png" group-title="SonyLiv", Sony Ten 5 HD
+https://sonyliv.tgaadi.workers.dev/sonyten5hd/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonymaxhd2" tvg-name="Sony MAX HD 2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/MaxHD2.png" group-title="SonyLiv", Sony MAX HD 2
+https://sonyliv.tgaadi.workers.dev/sonymaxhd2/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonytenx" tvg-name="Sony Ten Xtra" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/TENX.png" group-title="SonyLiv", Sony Ten Xtra
+https://sonyliv.tgaadi.workers.dev/sonytenx/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonytenselect" tvg-name="Sony Ten Select" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/TENSelect.png" group-title="SonyLiv", Sony Ten Select
+https://sonyliv.tgaadi.workers.dev/sonytenselect/stream.m3u8
