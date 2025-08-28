@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="ts840" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Darshan-Transparent.png" group-title="sex",Disney
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=917e83062be1087fd26c2e3c81ce91d2:7fe42bac4f14e5396b334fd134e4cb38
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd?hdnea=st=1756402103~exp=1756402703~acl=/bpk-tv/irdeto_com_Channel_153/output/*~id=1439778760~hmac=4def1752e7a784bdc0cfbb39c6a0a26b1522b1806672aa263bcae64eb927bc42
