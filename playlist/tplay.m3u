@@ -3,5 +3,5 @@
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000252&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNzUzMzc5MzgxMTA4In0.eyJzdWIiOiIxNDM5Nzc4NzYwIiwiaXNlIjp0cnVlLCJqdGkiOiJlYjc0ZGYxNC04YTY1LTQ3MDYtYWZlMS1jZGU1OGI0YjQ3YzIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNzU2NDcyNzkwLCJuYW1lIjoiQmhhcmF0IFNhaG9vIiwiaWF0IjoxNzU2NDcxNzcwLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxNTQ5In1dLCJpc3MiOiJ0cG1hX3dlYiJ9.ViodtqjdvVMe48RIwuKb4e7E6x5EyKX5eDBd9JgYp38
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://bpaicatchupta3.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/Manifest.mpd?hdntl=exp=1756482311~acl=%2fbpk-tv%2firdeto_com_Channel_405%2foutput%2f*~id=1439778760~data=hdntl~hmac=7feb858620fbc423f72a41464e3bbc6d20f34d089458d12591dbd2ba8d780ce8
+http://localhost:8080/tataplay-m3u-main/manifest.php?id=238
 
