@@ -1,7 +1,5 @@
-#EXTINF:-1 tvg-id="ts840" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Darshan-Transparent.png" group-title="sex",Disney
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000252&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNzUzMzc5MzgxMTA4In0.eyJzdWIiOiIxNDM5Nzc4NzYwIiwiaXNlIjp0cnVlLCJqdGkiOiJlYjc0ZGYxNC04YTY1LTQ3MDYtYWZlMS1jZGU1OGI0YjQ3YzIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNzU2NDcyNzkwLCJuYW1lIjoiQmhhcmF0IFNhaG9vIiwiaWF0IjoxNzU2NDcxNzcwLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxNTQ5In1dLCJpc3MiOiJ0cG1hX3dlYiJ9.ViodtqjdvVMe48RIwuKb4e7E6x5EyKX5eDBd9JgYp38
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:8080/tataplay-m3u-main/widevine.php?id=238?id=238
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ts238" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",Cartoon Network
 http://localhost:8080/tataplay-m3u-main/manifest.php?id=238?id=238|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-
